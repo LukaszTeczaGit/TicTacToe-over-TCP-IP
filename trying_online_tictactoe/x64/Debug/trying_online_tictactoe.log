@@ -1,0 +1,6 @@
+﻿  trying_online_tictactoe.cpp
+C:\Users\yeahbunny\source\repos\trying_online_tictactoe\trying_online_tictactoe\trying_online_tictactoe.cpp(44,57): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\yeahbunny\source\repos\trying_online_tictactoe\trying_online_tictactoe\trying_online_tictactoe.cpp(47,57): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\yeahbunny\source\repos\trying_online_tictactoe\trying_online_tictactoe\trying_online_tictactoe.cpp(51,41): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\yeahbunny\source\repos\trying_online_tictactoe\trying_online_tictactoe\trying_online_tictactoe.cpp(55,43): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  trying_online_tictactoe.vcxproj -> C:\Users\yeahbunny\source\repos\trying_online_tictactoe\x64\Debug\trying_online_tictactoe.exe
